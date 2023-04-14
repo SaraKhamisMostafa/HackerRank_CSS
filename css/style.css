@@ -1,0 +1,15 @@
+.greyBall{
+width: 50px;
+height: 50px;
+background: #3ba59b;
+border-radius: 50%;
+}
+.greyBall:hover{
+    transform:scale(2);
+    transition:500ms transform;
+
+}
+#tagId{
+    color:red;
+    
+}
